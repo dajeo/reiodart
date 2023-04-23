@@ -20,4 +20,4 @@ the [changelog](https://pub.dev/packages/reio/changelog).
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2022, [MineEjo](https://github.com/mineejo)
+Copyright (c) 2022-2023, [MineEjo](https://github.com/mineejo)
